@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "Text Search",
+    "description": "Text Search that also performs regular expression search",
+    "browser_action": {
+        "default_popup": "search.html",
+        "default_icon": "search.png"
+    }
+}
